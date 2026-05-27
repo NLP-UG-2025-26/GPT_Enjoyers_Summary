@@ -1,5 +1,7 @@
 # GPT_Enjoyers_Summary
-Introduction    
+## Chapter 3 The social context of English
+
+### Introduction    
 
 In the introduction of this chapter we are presented with an idea that understanding language depends not only on the literal meanings of words but also on the social and personal context in which communication occurs. By using the real-life example of John Roberts being called a “strict constructionist,” Stanley Fish argues that interpretation is not simply about following the exact wording of a text (“textualism”) but it rather depends on factors such as their relationship and past experiences, not just the words themselves. The Fish’s main point is that communication does not happen in isolation; people interpret language by considering context as well as the grammatical meaning of words.
 
@@ -8,7 +10,7 @@ Grammatical vs. pragmatic meaning
 This passage explains the distinction between semantics and pragmatics in language interpretation. Stanley Fish argues that understanding a sentence involves more than just knowing the meanings of individual words. At the grammatical level, semantics studies the meanings of words and how they refer to things in the world. However, fully understanding an utterance also requires knowledge of the social and communicative context in which it is spoken, which is the focus of pragmatics.
 The text further discusses how some linguists believe that grammar and pragmatics cannot be clearly separated because language use is shaped by social conventions. For example, questions like “Could you please pass the salt?” are understood as polite requests not only because of context but also because such forms have become conventionalized in English. While linguists such as Noam Chomsky focus mainly on grammar and linguistic competence, others emphasize the importance of communicative competence, a concept developed by Dell Hymes, which includes knowing how to use language appropriately in different social situations. The passage concludes that truly understanding a language requires more than knowing grammatical rules; it also involves understanding how language functions in real communication.
 
-Sentence vs. utterance
+### Sentence vs. utterance
 
 This passage explains the difference between sentences and utterances in spoken and written language. Many people assume that communication normally consists of complete grammatical sentences, but in everyday speech this is often not the case. As Carter and Cornbleet point out, people usually speak to achieve a communicative purpose rather than to produce perfectly formed sentences.
 
@@ -16,7 +18,7 @@ The conversation example in the passage demonstrates this idea. While some parts
 
 For this reason, pragmatics focuses on the concept of the utterance rather than the sentence. An utterance includes any meaningful unit of communication, whether or not it forms a complete grammatical sentence. Meaning is therefore shaped not only by grammar but also by the context in which language is used.
 
-Speech act theory
+### Speech act theory
 
 The next subchapter focuses on speech act theory and explores ideas proposed by  J. L. Austin and John Searle. According to Austin, people perform various acts when they are speaking or writing. Austin differentiates three types of acts that are performed when speaking: locutionary acts, illocutionary acts, and perlocutionary acts. Locutionary acts refer to the literal meaning and grammatical form of an utterance, while illocutionary acts refer to the speaker’s intentions while uttering the sentence. Moreover, perlocutionary acts refer to the force behind an utterance that has an effect on the listener. However, the author states that illocutionary force, the speaker’s intentions, is the primary focus of the speech act theory. 
 
@@ -26,7 +28,7 @@ Moreover, this subchapter explains how speech acts can be explicit or implicit, 
 
 Finally, this subchapter introduces felicity or appropriateness conditions, which have to be satisfied for a speech act to be successful. The author refers to Searle, who proposed four felicity conditions: propositional content, preparatory, sincerity, and essential. To demonstrate how they work, the passage uses an apology as an example. For an apology to be successful, it needs to fulfil the propositional content, which means it has to be conveyed in a form that is associated with this speech act, for example, marked by the performative verb “apologize”. Secondly, the preparatory condition requires a belief that harm was done before making an apology. The sincerity condition refers to the fact that the speaker has to be sincerely sorry for what was done. And lastly, the essential condition requires an acceptance of the apology by the listener. However, the author notes that different speech acts can satisfy the felicity conditions in different ways. For example, a representative satisfies the propositional condition by being a statement that can be verified as true or false. Nevertheless, all speech acts must satisfy each felicity condition to be successful.
 
-The Cooperative Principle
+### The Cooperative Principle
 
 This part of the chapter explains H. Paul Grice’s Cooperative Principle, which argues that effective communication relies on cooperation between speakers and listeners. Grice identifies four conversational maxims, such as, Quantity, Quality, Relation, and Manner. Their function is to regulate discourse. When speakers intentionally or unintentionally violate (flout) these maxims, listeners often infer additional meanings called conversational implicatures.
 

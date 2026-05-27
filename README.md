@@ -1,1 +1,1 @@
-Use this as a sefe space :)
+Use this as a safe space :)

@@ -1,1 +1,1 @@
-Use this as a safe space :)
+This is a summary of the third chapter, "The social context of English", from *Introducing English Linguistics* by Charles F. Meyer (2009).
